@@ -1,0 +1,29 @@
+{
+    "name": "Arulpraveen",
+    "education": [
+      {
+        "degree": "Bachelor of Computer Applications (BCA)",
+        "university": "SNR",
+        "completion_year": "2023"
+      }
+    ],
+    "skills": {
+      "category": "Full Stack Web Development",
+      "skills_list": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "SQL",
+        "Git",
+        "Responsive Web Design",
+        "RESTful API Development",
+        "Frontend and Backend Development",
+        "Database Management"
+      ]
+    }
+  }
+  
